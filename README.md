@@ -1,6 +1,6 @@
-# face
+# face demo
 
-this project demonstrates how to use the [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) [Face API](https://www.microsoft.com/cognitive-services/en-us/face-api) for facial recognition.
+this starter project demonstrates how to use the [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) [Face API](https://www.microsoft.com/cognitive-services/en-us/face-api) for facial recognition.
 
 ## prerequisites 
 - a text editor of your choice (sublime text, atom, xcode, etc.)
@@ -14,13 +14,13 @@ this project demonstrates how to use the [Microsoft Cognitive Services](https://
 - clone this repository (or download it to your desktop):
 
 ```bash
-$ git clone https://github.com/elanatee/cognitive-services-demo.git
+$ git clone https://github.com/elanatee/face-demo.git
 ```
 
 - navigate to the directory: 
 
 ```bash
-$ cd /path/to/cognitive-services-demo-master
+$ cd /path/to/face-demo-master
 ```
 
 - set up a virtual environment
